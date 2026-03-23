@@ -153,5 +153,7 @@ The application can be deployed using **Streamlit Cloud**.
 **Ravi Aghara**
 
 📧 Email: [aaghararavi@gmail.com](mailto:aaghararavi@gmail.com)
+
 🐙 GitHub: https://github.com/raviaghara007
+
 🔗 LinkedIn: https://www.linkedin.com/in/raviaghara07/

@@ -32,7 +32,7 @@ A **Streamlit-based interactive dashboard** is built on top of the model to visu
 ## 🚀 Live Application
 
 🔗 **Live Demo:**  
-
+https://smartcart-segmentation-izzmvczh59ac6rdvk8bw9p.streamlit.app/
 
 ---
 
@@ -123,9 +123,8 @@ smartcart-segmentation/
 ├── smartcart.ipynb           # Data analysis & model building
 ├── requirements.txt          # Dependencies
 ├── README.md                 # Documentation
-│
-├── data/
-│   └── smartcart_customers.csv
+├── smartcart_customers.csv   # Data
+
 
 ```
 
@@ -146,12 +145,6 @@ smartcart-segmentation/
 ## Deployment
 
 The application can be deployed using **Streamlit Cloud**.
-
-### Steps:
-
-1. Push project to GitHub
-2. Connect repository to Streamlit Cloud
-3. Select `smartcart_app.py` as entry point
 
 ---
 
